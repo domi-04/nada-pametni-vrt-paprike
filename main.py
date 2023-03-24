@@ -146,7 +146,7 @@ while True:
 
             status(vlaga_zemlja, svjetlost, temp_zrak)
             _vlaga_zemlja = vlaga_zemlja
-            _svjetlsot = svjetlost
+            _svjetlost = svjetlost
             _temp_zrak = temp_zrak
 
     elif (mode == 2):
